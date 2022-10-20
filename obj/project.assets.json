@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rsgoo\\.nuget\\packages\\": {}
+    "C:\\Users\\petec\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#8NumberGuess\\GoodwinR#8NumberGuess.csproj",
+      "projectUniqueName": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\GoodwinR-8NumberGuess\\GoodwinR#8NumberGuess.csproj",
       "projectName": "GoodwinR#8NumberGuess",
-      "projectPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#8NumberGuess\\GoodwinR#8NumberGuess.csproj",
-      "packagesPath": "C:\\Users\\rsgoo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsgoo\\Desktop\\Codestack\\LevelOne\\Homework\\GoodwinR#8NumberGuess\\obj\\",
+      "projectPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\GoodwinR-8NumberGuess\\GoodwinR#8NumberGuess.csproj",
+      "packagesPath": "C:\\Users\\petec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\petec\\OneDrive\\Documents\\GitRepository\\GoodwinR-8NumberGuess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rsgoo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\petec\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
