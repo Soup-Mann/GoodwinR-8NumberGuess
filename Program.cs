@@ -1,4 +1,9 @@
-﻿Console.Clear();
+﻿//Reed Goodwin
+//10/20/2022
+//MiniChallenge#8 Guess it
+//This is a console project where you try and guess the number choson by the computer
+
+Console.Clear();
 string userInput;
 bool isConverted = true;
 bool isNumber;
