@@ -1,0 +1,15 @@
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\bin\Debug\net6.0\GoodwinR#8NumberGuess.exe
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\bin\Debug\net6.0\GoodwinR#8NumberGuess.deps.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\bin\Debug\net6.0\GoodwinR#8NumberGuess.runtimeconfig.json
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\bin\Debug\net6.0\GoodwinR#8NumberGuess.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\bin\Debug\net6.0\GoodwinR#8NumberGuess.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.csproj.AssemblyReference.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.AssemblyInfoInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.AssemblyInfo.cs
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\refint\GoodwinR#8NumberGuess.dll
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.pdb
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\GoodwinR#8NumberGuess.genruntimeconfig.cache
+C:\Users\rsgoo\Desktop\Codestack\LevelOne\Homework\GoodwinR#8NumberGuess\obj\Debug\net6.0\ref\GoodwinR#8NumberGuess.dll
